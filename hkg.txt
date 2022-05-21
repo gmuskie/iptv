@@ -16,3 +16,15 @@ J2台,https://cdn.hklive.tv/hls/82/index.m3u8
 ViuTV,https://cdn.hklive.tv/hls/99/index.m3u8
 ViuTV Six,https://cdn.hklive.tv/hls/96/index.m3u8
 ViuTV Six （第二聲度）,https://cdn.hklive.tv/hls/96b/index.m3u8
+
+有線新聞台,http://livetv.dnsfor.me:80/channel.5.m3u8
+有線財經資訊台,http://livetv.dnsfor.me:80/channel.6.m3u8
+有線直播新聞台,http://livetv.dnsfor.me:80/channel.7.m3u8
+NOW 新聞台,http://livetv.dnsfor.me:80/channel.4.m3u8
+NOW 財經台,http://livetv.dnsfor.me:80/channel.8.m3u8
+開電視,http://livetv.dnsfor.me:80/channel.9.m3u8
+
+RTHK31-B,http://livetv.dnsfor.me:80/channel.1.m3u8
+RTHK32-B,http://livetv.dnsfor.me:80/channel.2.m3u8
+無綫新聞台-B,http://livetv.dnsfor.me:80/channel.10.m3u8
+無綫財經資訊台-B,http://livetv.dnsfor.me:80/channel.11.m3u8
