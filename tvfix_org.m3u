@@ -1,0 +1,71 @@
+#EXTM3U
+#EXTINF:-1 group-title="香港",翡翠台(第1聲道繁體)
+https://tvfix.woodong.workers.dev/hls/jadehk.m3u8
+#EXTINF:-1 group-title="香港",翡翠台(第2聲道簡體)
+https://tvfix.woodong.workers.dev/hls/jadehk2.m3u8
+#EXTINF:-1 0group-title="香港",翡翠台海外版(粵語繁體)
+https://tvfix.woodong.workers.dev/hls/jadenhk.m3u8
+#EXTINF:-1 group-title="香港",翡翠台海外版(普通話簡體)
+https://tvfix.woodong.workers.dev/hls/jadenhk2.m3u8
+#EXTINF:-1 group-title="香港",J2
+https://tvfix.woodong.workers.dev/hls/j2.m3u8
+#EXTINF:-1 group-title="香港",J2(第2聲道)
+https://tvfix.woodong.workers.dev/hls/j22.m3u8
+#EXTINF:-1 group-title="香港",無線新聞台
+https://tvfix.woodong.workers.dev/hls/inews.m3u8
+#EXTINF:-1 group-title="香港",無線新聞台(第2聲道)
+https://tvfix.woodong.workers.dev/hls/inews2.m3u8
+#EXTINF:-1 group-title="香港",明珠台
+https://tvfix.woodong.workers.dev/hls/pearl.m3u8
+#EXTINF:-1 group-title="香港",明珠台(第2聲道)
+https://tvfix.woodong.workers.dev/hls/pearl2.m3u8
+#EXTINF:-1 group-title="香港",無線財經資訊台
+https://tvfix.woodong.workers.dev/hls/finance.m3u8
+#EXTINF:-1 group-title="香港",無線財經資訊台(第2聲道)
+https://tvfix.woodong.workers.dev/hls/finance2.m3u8
+#EXTINF:-1 group-title="香港",無線財經資訊台海外版
+https://tvfix.woodong.workers.dev/hls/financenhk.m3u8
+#EXTINF:-1 group-title="香港",ViuTV
+https://tvfix.woodong.workers.dev/hls/viutv.m3u8
+#EXTINF:-1 group-title="香港",ViuTV(第2聲道)
+https://tvfix.woodong.workers.dev/hls/viutv2.m3u8
+#EXTINF:-1 group-title="香港",RTHK31
+https://tvfix.woodong.workers.dev/hls/rthk31.m3u8
+#EXTINF:-1 group-title="香港",RTHK32
+https://tvfix.woodong.workers.dev/hls/rthk32.m3u8
+#EXTINF:-1 group-title="香港",TVB星河(粵語)
+https://tvfix.woodong.workers.dev/hls/tvbxh.m3u8
+#EXTINF:-1 group-title="香港",TVB星河(普通話)
+https://tvfix.woodong.workers.dev/hls/tvbxh2.m3u8
+#EXTINF:-1 group-title="香港",TVB功夫台(粵語)
+https://tvfix.woodong.workers.dev/hls/tvbkf.m3u8
+#EXTINF:-1 group-title="香港",TVB功夫(普通話)
+https://tvfix.woodong.workers.dev/hls/tvbkf2.m3u8
+#EXTINF:-1 group-title="香港",賽馬頻道18台
+https://tvfix.woodong.workers.dev/hls/18.m3u8
+#EXTINF:-1 group-title="香港",黃金翡翠台
+https://tvfix.woodong.workers.dev/hls/jadegold.m3u8
+#EXTINF:-1 group-title="香港",TVB經典台
+https://tvfix.woodong.workers.dev/hls/tvbjd.m3u8
+#EXTINF:-1 group-title="香港",娛樂新聞台
+https://tvfix.woodong.workers.dev/hls/enews.m3u8
+#EXTINF:-1 group-title="香港",TVB亞洲綜藝台
+https://tvfix.woodong.workers.dev/hls/tvbzy.m3u8
+#EXTINF:-1 group-title="香港",TVB華語劇台
+https://tvfix.woodong.workers.dev/hls/tvbhy.m3u8
+#EXTINF:-1 group-title="香港",TVB亞洲劇台
+https://tvfix.woodong.workers.dev/hls/tvbyz.m3u8
+#EXTINF:-1 group-title="香港",TVB戲曲台
+https://tvfix.woodong.workers.dev/hls/tvbxq.m3u8
+#EXTINF:-1 group-title="香港",美亞電影台(粵語)
+https://tvfix.woodong.workers.dev/hls/mydy.m3u8
+#EXTINF:-1 group-title="香港",美亞電影台(普通話)
+https://tvfix.woodong.workers.dev/hls/mydy2.m3u8
+#EXTINF:-1 group-title="香港",天映經典
+https://tvfix.woodong.workers.dev/hls/tyjd.m3u8
+#EXTINF:-1 group-title="香港",天映經典(第2聲道)
+https://tvfix.woodong.workers.dev/hls/tyjd2.m3u8
+#EXTINF:-1 group-title="香港",天映頻道
+https://tvfix.woodong.workers.dev/hls/typd.m3u8
+#EXTINF:-1 group-title="香港",衛視電影台
+https://tvfix.woodong.workers.dev/hls/starmovies.m3u8
