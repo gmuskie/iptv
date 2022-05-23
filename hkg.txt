@@ -42,7 +42,7 @@ TVB亞綜,https://tvfix.woodong.workers.dev/hls/tvbzy.m3u8
 TVB亞劇,https://tvfix.woodong.workers.dev/hls/tvbyz.m3u8
 TVB戲曲,https://tvfix.woodong.workers.dev/hls/tvbxq.m3u8
 TVB功夫,https://tvfix.woodong.workers.dev/hls/tvbkf.m3u8
-美亞電影(粵語),https://tvfix.woodong.workers.dev/hls/mydy.m3u8
+美亞電影,https://tvfix.woodong.workers.dev/hls/mydy.m3u8
 天映經典,https://tvfix.woodong.workers.dev/hls/tyjd.m3u8
 天映頻道,https://tvfix.woodong.workers.dev/hls/typd.m3u8
 衛視電影,https://tvfix.woodong.workers.dev/hls/starmovies.m3u8
