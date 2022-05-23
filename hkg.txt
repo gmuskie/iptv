@@ -15,7 +15,6 @@ J2台,https://cdn.hklive.tv/hls/82/index.m3u8
 
 ViuTV,https://cdn.hklive.tv/hls/99/index.m3u8
 ViuTV Six,https://cdn.hklive.tv/hls/96/index.m3u8
-ViuTV Six （第二聲度）,https://cdn.hklive.tv/hls/96b/index.m3u8
 
 有線新聞台,http://livetv.dnsfor.me:80/channel.5.m3u8
 有線財經資訊台,http://livetv.dnsfor.me:80/channel.6.m3u8
@@ -99,6 +98,7 @@ NOW 財經台,http://livetv.dnsfor.me:80/channel.8.m3u8
 
 翡翠台 (中英字幕),https://cdn.hklive.tv/hls/81b/index.m3u8
 明珠台 (粵語聲道),https://cdn.hklive.tv/hls/84b/index.m3u8
+ViuTV Six （第二聲度）,https://cdn.hklive.tv/hls/96b/index.m3u8
 
 澳視澳門-B,http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8
 澳視葡文-B,http://103.233.191.133:1935/ch2/ch2.live/playlist.m3u8
