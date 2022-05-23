@@ -4,7 +4,7 @@
 J2台,https://cdn.hklive.tv/hls/82/index.m3u8
 無綫新聞台,https://cdn.hklive.tv/hls/83/index.m3u8
 明珠台,https://cdn.hklive.tv/hls/84/index.m3u8
-無綫財經·資訊台,https://cdn.hklive.tv/hls/85/index.m3u8
+無綫財經資訊台,https://cdn.hklive.tv/hls/85/index.m3u8
 
 港台電視31,https://cdn.hklive.tv/hls/31/index.m3u8
 港台電視32,https://cdn.hklive.tv/hls/32/index.m3u8
@@ -22,6 +22,44 @@ ViuTV Six,https://cdn.hklive.tv/hls/96/index.m3u8
 NOW 新聞台,http://livetv.dnsfor.me:80/channel.4.m3u8
 NOW 財經台,http://livetv.dnsfor.me:80/channel.8.m3u8
 開電視,http://livetv.dnsfor.me:80/channel.9.m3u8
+
+🇭🇰电视匣,#genre#
+翡翠台,https://tvfix.woodong.workers.dev/hls/jadehk.m3u8
+J2,https://tvfix.woodong.workers.dev/hls/j2.m3u8
+無綫新聞台,https://tvfix.woodong.workers.dev/hls/inews.m3u8
+明珠台,https://tvfix.woodong.workers.dev/hls/pearl.m3u8
+無綫財經資訊台,https://tvfix.woodong.workers.dev/hls/finance.m3u8
+ViuTV,https://tvfix.woodong.workers.dev/hls/viutv.m3u8
+RTHK31,https://tvfix.woodong.workers.dev/hls/rthk31.m3u8
+RTHK32,https://tvfix.woodong.workers.dev/hls/rthk32.m3u8
+
+🇭🇰其它,#genre#
+黃金翡翠,https://tvfix.woodong.workers.dev/hls/jadegold.m3u8
+娛樂新聞,https://tvfix.woodong.workers.dev/hls/enews.m3u8
+TVB星河,https://tvfix.woodong.workers.dev/hls/tvbxh.m3u8
+TVB經典,https://tvfix.woodong.workers.dev/hls/tvbjd.m3u8
+TVB亞綜,https://tvfix.woodong.workers.dev/hls/tvbzy.m3u8
+TVB亞劇,https://tvfix.woodong.workers.dev/hls/tvbyz.m3u8
+TVB戲曲,https://tvfix.woodong.workers.dev/hls/tvbxq.m3u8
+TVB功夫,https://tvfix.woodong.workers.dev/hls/tvbkf.m3u8
+美亞電影(粵語),https://tvfix.woodong.workers.dev/hls/mydy.m3u8
+天映經典,https://tvfix.woodong.workers.dev/hls/tyjd.m3u8
+天映頻道,https://tvfix.woodong.workers.dev/hls/typd.m3u8
+衛視電影,https://tvfix.woodong.workers.dev/hls/starmovies.m3u8
+
+🇭🇰2聲,#genre#
+J2(第2聲道),https://tvfix.woodong.workers.dev/hls/j22.m3u8
+新聞(第2聲道),https://tvfix.woodong.workers.dev/hls/inews2.m3u8
+明珠(第2聲道),https://tvfix.woodong.workers.dev/hls/pearl2.m3u8
+財經(第2聲道),https://tvfix.woodong.workers.dev/hls/finance2.m3u8
+ViuTV(第2聲道),https://tvfix.woodong.workers.dev/hls/viutv2.m3u8
+天映經典(第2聲道),https://tvfix.woodong.workers.dev/hls/tyjd2.m3u8
+
+🇭🇰海外,#genre#
+翡翠海外,https://tvfix.woodong.workers.dev/hls/jadenhk.m3u8
+財經海外,https://tvfix.woodong.workers.dev/hls/financenhk.m3u8
+
+
 
 
 🇲🇴澳門,#genre#
