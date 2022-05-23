@@ -1,4 +1,15 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="香港",翡翠台
+https://cdn.hklive.tv/hls/81/index.m3u8
+#EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="香港",J2台
+https://cdn.hklive.tv/hls/82/index.m3u8
+#EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="香港",無綫新聞台
+https://cdn.hklive.tv/hls/83/index.m3u8
+#EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="香港",明珠台
+https://cdn.hklive.tv/hls/84/index.m3u8
+#EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="香港",無綫財經資訊台
+https://cdn.hklive.tv/hls/85/index.m3u8
+
 #EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="澳門",澳視澳門
 http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8
 #EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="澳門",澳視葡文
