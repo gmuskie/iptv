@@ -41,47 +41,47 @@ http://livetv.dnsfor.me:80/channel.8.m3u8
 http://livetv.dnsfor.me:80/channel.9.m3u8
 
 #EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="香港-TVFIX",翡翠台
-http://arm01.canhkg.com:18000/hls/jadehk.m3u8
+http://arm01.canhkg.com:50080/hls/jadehk.m3u8
 #EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="香港-TVFIX",J2
-http://arm01.canhkg.com:18000/hls/j2.m3u8
+http://arm01.canhkg.com:50080/hls/j2.m3u8
 #EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="香港-TVFIX",無綫新聞台
-http://arm01.canhkg.com:18000/hls/inews.m3u8
+http://arm01.canhkg.com:50080/hls/inews.m3u8
 #EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="香港-TVFIX",明珠台
-http://arm01.canhkg.com:18000/hls/pearl.m3u8
+http://arm01.canhkg.com:50080/hls/pearl.m3u8
 #EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="香港-TVFIX",無綫財經資訊台
-http://arm01.canhkg.com:18000/hls/finance.m3u8
+http://arm01.canhkg.com:50080/hls/finance.m3u8
 
 #EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="香港-TVFIX",ViuTV
-http://arm01.canhkg.com:18000/hls/viutv.m3u8
+http://arm01.canhkg.com:50080/hls/viutv.m3u8
 #EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="香港-TVFIX",RTHK31
-http://arm01.canhkg.com:18000/hls/rthk31.m3u8
+http://arm01.canhkg.com:50080/hls/rthk31.m3u8
 #EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="香港-TVFIX",RTHK32
-http://arm01.canhkg.com:18000/hls/rthk32.m3u8
+http://arm01.canhkg.com:50080/hls/rthk32.m3u8
 
 #EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="香港-TVFIX",黃金翡翠
-http://arm01.canhkg.com:18000/hls/jadegold.m3u8
+http://arm01.canhkg.com:50080/hls/jadegold.m3u8
 #EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="香港-TVFIX",娛樂新聞
-http://arm01.canhkg.com:18000/hls/enews.m3u8
+http://arm01.canhkg.com:50080/hls/enews.m3u8
 #EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="香港-TVFIX",TVB星河
-http://arm01.canhkg.com:18000/hls/tvbxh.m3u8
+http://arm01.canhkg.com:50080/hls/tvbxh.m3u8
 #EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="香港-TVFIX",TVB經典
-http://arm01.canhkg.com:18000/hls/tvbjd.m3u8
+http://arm01.canhkg.com:50080/hls/tvbjd.m3u8
 #EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="香港-TVFIX",TVB亞綜
-http://arm01.canhkg.com:18000/hls/tvbzy.m3u8
+http://arm01.canhkg.com:50080/hls/tvbzy.m3u8
 #EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="香港-TVFIX",TVB亞劇
-http://arm01.canhkg.com:18000/hls/tvbyz.m3u8
+http://arm01.canhkg.com:50080/hls/tvbyz.m3u8
 #EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="香港-TVFIX",TVB戲曲
-http://arm01.canhkg.com:18000/hls/tvbxq.m3u8
+http://arm01.canhkg.com:50080/hls/tvbxq.m3u8
 #EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="香港-TVFIX",TVB功夫
-http://arm01.canhkg.com:18000/hls/tvbkf.m3u8
+http://arm01.canhkg.com:50080/hls/tvbkf.m3u8
 #EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="香港-TVFIX",美亞電影
-http://arm01.canhkg.com:18000/hls/mydy.m3u8
+http://arm01.canhkg.com:50080/hls/mydy.m3u8
 #EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="香港-TVFIX",天映經典
-http://arm01.canhkg.com:18000/hls/tyjd.m3u8
+http://arm01.canhkg.com:50080/hls/tyjd.m3u8
 #EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="香港-TVFIX",天映頻道
-http://arm01.canhkg.com:18000/hls/typd.m3u8
+http://arm01.canhkg.com:50080/hls/typd.m3u8
 #EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="香港-TVFIX",衛視電影
-http://arm01.canhkg.com:18000/hls/starmovies.m3u8
+http://arm01.canhkg.com:50080/hls/starmovies.m3u8
 
 #EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="澳門",澳視澳門
 http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8
