@@ -41,47 +41,47 @@ http://livetv.dnsfor.me:80/channel.8.m3u8
 http://livetv.dnsfor.me:80/channel.9.m3u8
 
 #EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="香港-TVFIX",翡翠台
-https://tvfix.woodong.workers.dev/hls/jadehk.m3u8
+http://jp1.canhkg.com:18000/hls/jadehk.m3u8
 #EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="香港-TVFIX",J2
-https://tvfix.woodong.workers.dev/hls/j2.m3u8
+http://jp1.canhkg.com:18000/hls/j2.m3u8
 #EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="香港-TVFIX",無綫新聞台
-https://tvfix.woodong.workers.dev/hls/inews.m3u8
+http://jp1.canhkg.com:18000/hls/inews.m3u8
 #EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="香港-TVFIX",明珠台
-https://tvfix.woodong.workers.dev/hls/pearl.m3u8
+http://jp1.canhkg.com:18000/hls/pearl.m3u8
 #EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="香港-TVFIX",無綫財經資訊台
-https://tvfix.woodong.workers.dev/hls/finance.m3u8
+http://jp1.canhkg.com:18000/hls/finance.m3u8
 
 #EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="香港-TVFIX",ViuTV
-https://tvfix.woodong.workers.dev/hls/viutv.m3u8
+http://jp1.canhkg.com:18000/hls/viutv.m3u8
 #EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="香港-TVFIX",RTHK31
-https://tvfix.woodong.workers.dev/hls/rthk31.m3u8
+http://jp1.canhkg.com:18000/hls/rthk31.m3u8
 #EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="香港-TVFIX",RTHK32
-https://tvfix.woodong.workers.dev/hls/rthk32.m3u8
+http://jp1.canhkg.com:18000/hls/rthk32.m3u8
 
 #EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="香港-TVFIX",黃金翡翠
-https://tvfix.woodong.workers.dev/hls/jadegold.m3u8
+http://jp1.canhkg.com:18000/hls/jadegold.m3u8
 #EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="香港-TVFIX",娛樂新聞
-https://tvfix.woodong.workers.dev/hls/enews.m3u8
+http://jp1.canhkg.com:18000/hls/enews.m3u8
 #EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="香港-TVFIX",TVB星河
-https://tvfix.woodong.workers.dev/hls/tvbxh.m3u8
+http://jp1.canhkg.com:18000/hls/tvbxh.m3u8
 #EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="香港-TVFIX",TVB經典
-https://tvfix.woodong.workers.dev/hls/tvbjd.m3u8
+http://jp1.canhkg.com:18000/hls/tvbjd.m3u8
 #EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="香港-TVFIX",TVB亞綜
-https://tvfix.woodong.workers.dev/hls/tvbzy.m3u8
+http://jp1.canhkg.com:18000/hls/tvbzy.m3u8
 #EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="香港-TVFIX",TVB亞劇
-https://tvfix.woodong.workers.dev/hls/tvbyz.m3u8
+http://jp1.canhkg.com:18000/hls/tvbyz.m3u8
 #EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="香港-TVFIX",TVB戲曲
-https://tvfix.woodong.workers.dev/hls/tvbxq.m3u8
+http://jp1.canhkg.com:18000/hls/tvbxq.m3u8
 #EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="香港-TVFIX",TVB功夫
-https://tvfix.woodong.workers.dev/hls/tvbkf.m3u8
+http://jp1.canhkg.com:18000/hls/tvbkf.m3u8
 #EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="香港-TVFIX",美亞電影
-https://tvfix.woodong.workers.dev/hls/mydy.m3u8
+http://jp1.canhkg.com:18000/hls/mydy.m3u8
 #EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="香港-TVFIX",天映經典
-https://tvfix.woodong.workers.dev/hls/tyjd.m3u8
+http://jp1.canhkg.com:18000/hls/tyjd.m3u8
 #EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="香港-TVFIX",天映頻道
-https://tvfix.woodong.workers.dev/hls/typd.m3u8
+http://jp1.canhkg.com:18000/hls/typd.m3u8
 #EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="香港-TVFIX",衛視電影
-https://tvfix.woodong.workers.dev/hls/starmovies.m3u8
+http://jp1.canhkg.com:18000/hls/starmovies.m3u8
 
 #EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="澳門",澳視澳門
 http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8
@@ -95,6 +95,3 @@ http://103.233.191.133:1935/ch4/sport_ch4.live/playlist.m3u8
 http://103.233.191.133:1935/ch5/info_ch5.live/playlist.m3u8
 #EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="澳門",澳視綜藝
 http://103.233.191.133:1935/ch6/hd_ch6.live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="TVB",JADE TEST
-http://live.tvfix.org/hls/jadehk.m3u8
