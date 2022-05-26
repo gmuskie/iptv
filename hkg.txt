@@ -23,40 +23,40 @@ NOW 財經台,http://livetv.dnsfor.me:80/channel.8.m3u8
 開電視,http://livetv.dnsfor.me:80/channel.9.m3u8
 
 🇭🇰电视匣,#genre#
-翡翠台,https://tvfix.woodong.workers.dev/hls/jadehk.m3u8
-J2,https://tvfix.woodong.workers.dev/hls/j2.m3u8
-無綫新聞台,https://tvfix.woodong.workers.dev/hls/inews.m3u8
-明珠台,https://tvfix.woodong.workers.dev/hls/pearl.m3u8
-無綫財經資訊台,https://tvfix.woodong.workers.dev/hls/finance.m3u8
-ViuTV,https://tvfix.woodong.workers.dev/hls/viutv.m3u8
-RTHK31,https://tvfix.woodong.workers.dev/hls/rthk31.m3u8
-RTHK32,https://tvfix.woodong.workers.dev/hls/rthk32.m3u8
+翡翠台,http://arm01.canhkg.com:50080/hls/jadehk.m3u8
+J2,http://arm01.canhkg.com:50080/hls/j2.m3u8
+無綫新聞台,http://arm01.canhkg.com:50080/hls/inews.m3u8
+明珠台,http://arm01.canhkg.com:50080/hls/pearl.m3u8
+無綫財經資訊台,http://arm01.canhkg.com:50080/hls/finance.m3u8
+ViuTV,http://arm01.canhkg.com:50080/hls/viutv.m3u8
+RTHK31,http://arm01.canhkg.com:50080/hls/rthk31.m3u8
+RTHK32,http://arm01.canhkg.com:50080/hls/rthk32.m3u8
 
 🇭🇰其它,#genre#
-黃金翡翠,https://tvfix.woodong.workers.dev/hls/jadegold.m3u8
-娛樂新聞,https://tvfix.woodong.workers.dev/hls/enews.m3u8
-TVB星河,https://tvfix.woodong.workers.dev/hls/tvbxh.m3u8
-TVB經典,https://tvfix.woodong.workers.dev/hls/tvbjd.m3u8
-TVB亞綜,https://tvfix.woodong.workers.dev/hls/tvbzy.m3u8
-TVB亞劇,https://tvfix.woodong.workers.dev/hls/tvbyz.m3u8
-TVB戲曲,https://tvfix.woodong.workers.dev/hls/tvbxq.m3u8
-TVB功夫,https://tvfix.woodong.workers.dev/hls/tvbkf.m3u8
-美亞電影,https://tvfix.woodong.workers.dev/hls/mydy.m3u8
-天映經典,https://tvfix.woodong.workers.dev/hls/tyjd.m3u8
-天映頻道,https://tvfix.woodong.workers.dev/hls/typd.m3u8
-衛視電影,https://tvfix.woodong.workers.dev/hls/starmovies.m3u8
+黃金翡翠,http://arm01.canhkg.com:50080/hls/jadegold.m3u8
+娛樂新聞,http://arm01.canhkg.com:50080/hls/enews.m3u8
+TVB星河,http://arm01.canhkg.com:50080/hls/tvbxh.m3u8
+TVB經典,http://arm01.canhkg.com:50080/hls/tvbjd.m3u8
+TVB亞綜,http://arm01.canhkg.com:50080/hls/tvbzy.m3u8
+TVB亞劇,http://arm01.canhkg.com:50080/hls/tvbyz.m3u8
+TVB戲曲,http://arm01.canhkg.com:50080/hls/tvbxq.m3u8
+TVB功夫,http://arm01.canhkg.com:50080/hls/tvbkf.m3u8
+美亞電影,http://arm01.canhkg.com:50080/hls/mydy.m3u8
+天映經典,http://arm01.canhkg.com:50080/hls/tyjd.m3u8
+天映頻道,http://arm01.canhkg.com:50080/hls/typd.m3u8
+衛視電影,http://arm01.canhkg.com:50080/hls/starmovies.m3u8
 
 🇭🇰2聲,#genre#
-J2(第2聲道),https://tvfix.woodong.workers.dev/hls/j22.m3u8
-新聞(第2聲道),https://tvfix.woodong.workers.dev/hls/inews2.m3u8
-明珠(第2聲道),https://tvfix.woodong.workers.dev/hls/pearl2.m3u8
-財經(第2聲道),https://tvfix.woodong.workers.dev/hls/finance2.m3u8
-ViuTV(第2聲道),https://tvfix.woodong.workers.dev/hls/viutv2.m3u8
-天映經典(第2聲道),https://tvfix.woodong.workers.dev/hls/tyjd2.m3u8
+J2(第2聲道),http://arm01.canhkg.com:50080/hls/j22.m3u8
+新聞(第2聲道),http://arm01.canhkg.com:50080/hls/inews2.m3u8
+明珠(第2聲道),http://arm01.canhkg.com:50080/hls/pearl2.m3u8
+財經(第2聲道),http://arm01.canhkg.com:50080/hls/finance2.m3u8
+ViuTV(第2聲道),http://arm01.canhkg.com:50080/hls/viutv2.m3u8
+天映經典(第2聲道),http://arm01.canhkg.com:50080/hls/tyjd2.m3u8
 
 🇭🇰海外,#genre#
-翡翠海外,https://tvfix.woodong.workers.dev/hls/jadenhk.m3u8
-財經海外,https://tvfix.woodong.workers.dev/hls/financenhk.m3u8
+翡翠海外,http://arm01.canhkg.com:50080/hls/jadenhk.m3u8
+財經海外,http://arm01.canhkg.com:50080/hls/financenhk.m3u8
 
 
 
