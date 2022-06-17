@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="香港-DNSFORME",RTHK 31
+http://livetv.dnsfor.me:80/channel.1.m3u8
+#EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="香港-DNSFORME",RTHK 32
+http://livetv.dnsfor.me:80/channel.2.m3u8
+#EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="香港-DNSFORME",NOW 直播台
+http://livetv.dnsfor.me:80/channel.3.m3u8
+#EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="香港-DNSFORME",NOW 新聞台
+http://livetv.dnsfor.me:80/channel.4.m3u8
+#EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="香港-DNSFORME",NOW 財經台
+http://livetv.dnsfor.me:80/channel.8.m3u8
+#EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="香港-DNSFORME",有線新聞台
+http://livetv.dnsfor.me:80/channel.5.m3u8
+#EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="香港-DNSFORME",有線財經資訊台
+http://livetv.dnsfor.me:80/channel.6.m3u8
+#EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="香港-DNSFORME",有線直播新聞台
+http://livetv.dnsfor.me:80/channel.7.m3u8
+#EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="香港-DNSFORME",開電視
+http://livetv.dnsfor.me:80/channel.9.m3u8
