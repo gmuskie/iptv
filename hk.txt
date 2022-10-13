@@ -1,0 +1,22 @@
+翡翠台,https://cdn.hklive.tv/hls/81/index.m3u8
+J2台,https://cdn.hklive.tv/hls/82/index.m3u8
+無綫新聞台,https://cdn.hklive.tv/hls/83/index.m3u8
+明珠台,https://cdn.hklive.tv/hls/84/index.m3u8
+無綫財經資訊台,https://cdn.hklive.tv/hls/85/index.m3u8
+
+港台電視31,https://cdn.hklive.tv/hls/31/index.m3u8
+港台電視32,https://cdn.hklive.tv/hls/32/index.m3u8
+港台電視33,https://cdn.hklive.tv/hls/33/index.m3u8
+
+香港開電視,https://cdn.hklive.tv/hls/77/index.m3u8
+香港國際財經台,https://cdn.hklive.tv/hls/76/index.m3u8
+
+ViuTV,https://cdn.hklive.tv/hls/99/index.m3u8
+ViuTV Six,https://cdn.hklive.tv/hls/96/index.m3u8
+
+有線新聞台,http://livetv.dnsfor.me:80/channel.5.m3u8
+有線財經資訊台,http://livetv.dnsfor.me:80/channel.6.m3u8
+有線直播新聞台,http://livetv.dnsfor.me:80/channel.7.m3u8
+NOW 新聞台,http://livetv.dnsfor.me:80/channel.4.m3u8
+NOW 財經台,http://livetv.dnsfor.me:80/channel.8.m3u8
+開電視,http://livetv.dnsfor.me:80/channel.9.m3u8
