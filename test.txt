@@ -1,21 +1,21 @@
-group,[RTHK] 香港電台
-ext,港台電視31,https://cdn.hklive.tv/xxxx/31/index.m3u8
-ext,港台電視32,https://cdn.hklive.tv/xxxx/32/index.m3u8
-ext,港台電視33,https://cdn.hklive.tv/xxxx/33/index.m3u8
-ext,CGTN紀錄頻道,https://cdn.hklive.tv/xxxx/34/index.m3u8
+香港電台,#genre#
+港台電視31,https://cdn.hklive.tv/xxxx/31/index.m3u8
+港台電視32,https://cdn.hklive.tv/xxxx/32/index.m3u8
+港台電視33,https://cdn.hklive.tv/xxxx/33/index.m3u8
+CGTN紀錄頻道,https://cdn.hklive.tv/xxxx/34/index.m3u8
 
-group,[Fan] 奇妙電視
-ext,香港開電視,https://cdn.hklive.tv/xxxx/77/index.m3u8
-ext,香港國際財經台,https://cdn.hklive.tv/xxxx/76/index.m3u8
+奇妙電視,#genre#
+香港開電視,https://cdn.hklive.tv/xxxx/77/index.m3u8
+香港國際財經台,https://cdn.hklive.tv/xxxx/76/index.m3u8
 
-group,[TVB] 電視廣播
-ext,翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
-ext,J2台,https://cdn.hklive.tv/xxxx/82/index.m3u8
-ext,無綫新聞台,https://cdn.hklive.tv/xxxx/83/index.m3u8
-ext,明珠台,https://cdn.hklive.tv/xxxx/84/index.m3u8
-ext,明珠台 (粵語聲道),https://cdn.hklive.tv/xxxx/84b/index.m3u8
-ext,無綫財經·資訊台,https://cdn.hklive.tv/xxxx/85/index.m3u8
+TVB,#genre#
+翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
+J2台,https://cdn.hklive.tv/xxxx/82/index.m3u8
+無綫新聞台,https://cdn.hklive.tv/xxxx/83/index.m3u8
+明珠台,https://cdn.hklive.tv/xxxx/84/index.m3u8
+明珠台 (粵語聲道),https://cdn.hklive.tv/xxxx/84b/index.m3u8
+無綫財經·資訊台,https://cdn.hklive.tv/xxxx/85/index.m3u8
 
-group,[Viu] 香港電視娛樂
-ext,ViuTV,https://cdn.hklive.tv/xxxx/99/index.m3u8
-ext,ViuTV Six,https://cdn.hklive.tv/xxxx/96/index.m3u8
+Viu,#genre#
+ViuTV,https://cdn.hklive.tv/xxxx/99/index.m3u8
+ViuTV Six,https://cdn.hklive.tv/xxxx/96/index.m3u8
