@@ -1,5 +1,6 @@
-echo script name $0
-echo p1 $0
-echo p2 $1
-echo p3 $2
+#curl -fsSL "https://raw.githubusercontent.com/gmuskie/iptv/main/tbd.sh" |  bash -s  aa bb
+
+echo parameter 1 $1
+echo parameter 2 $1
+
 
