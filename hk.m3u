@@ -1,22 +1,30 @@
-[31台]港台電視31,https://cdn.hklive.tv/xxxx/31/index.m3u8
-[32台]港台電視32,https://cdn.hklive.tv/xxxx/32/index.m3u8
-[33台]CCTV-1(港澳版),https://cdn.hklive.tv/xxxx/33/index.m3u8
-[76台]香港國際財經台,https://cdn.hklive.tv/xxxx/76/index.m3u8
-[77台]香港開電視,http://media.fantv.hk/m3u8/archive/channel2.m3u8
-[81台]TVB翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
-[82台]TVB J2台,https://cdn.hklive.tv/xxxx/82/index.m3u8
-[83台]TVB無綫新聞台,https://cdn.hklive.tv/xxxx/83/index.m3u8
-[84台]TVB明珠台,https://cdn.hklive.tv/xxxx/84/index.m3u8
-[85台]TVB無綫財經資訊台,https://cdn.hklive.tv/xxxx/85/index.m3u8
-[96台]ViuTV Six台,https://cdn.hklive.tv/xxxx/96/index.m3u8
-[99台]ViuTV台,https://cdn.hklive.tv/xxxx/99/index.m3u8
-[108台]icable財經資訊台1,https://uc6.i-cable.com/live_freedirect/freehd208_h.live/playlist.m3u8
-[108台]icable財經資訊台2,https://uc6.i-cable.com/live_freedirect/freehd208_h.live/chunklist_w330929200.m3u8
-[109台]icable新聞台1,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
-[109台]icable新聞台2,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/chunklist_w1239419574.m3u8
-[110台]icable直播台1,https://uc6.i-cable.com/live_freedirect/hd110_h.live/playlist.m3u8
-[110台]icable直播台2,https://uc6.i-cable.com/live_freedirect/hd110_h.live/chunklist_w1347139543.m3u8
-[331台]Now直播台,https://ewcdnsite06.nowe.com/session/09-5524453ac51fd31449e0d29fbd0dc/Content/HLS/LIVE/Channel(HLS_CH331)/Stream(04)/index.m3u8
-[332台]Now新聞台,https://ewcdnsite06.nowe.com/session/09-6c0ffd517932ad2e2463ffa302e2e/Content/HLS/LIVE/Channel(HLS_CH332N)/Stream(04)/index.m3u8
-[333台]Now財經台,https://ewcdnsite06.nowe.com/session/09-f9105c07f26f03e410c677df4273e/Content/HLS/LIVE/Channel(HLS_CH333)/Stream(03)/index.m3u8
-[999]耀才財經http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
+#香港频道
+#EXTINF:-1 tvg-id="TVB翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="香港频道",TVB翡翠台
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
+#EXTINF:-1 tvg-id="TVB翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="香港频道",TVB翡翠台 1080P
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+#EXTINF:-1 tvg-id="TVB翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="香港频道",TVB翡翠台 4K
+https://stream1.freetv.fun/fei-cui-8.m3u8
+#EXTINF:-1 tvg-id="TVB翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="香港频道",TVB翡翠台（備用）
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+#EXTINF:-1 tvg-id="TVB无线新闻" tvg-name="无线新闻" tvg-logo="https://live.fanmingming.cn/tv/无线新闻台.png" group-title="香港频道",TVBB無綫新聞
+http://php.jdshipin.com:8880/smt.php?id=inews_twn
+#EXTINF:-1 tvg-id="TVB无线星河" tvg-name="无线星河" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/TVB6.png" group-title="香港频道",TVB無綫星河
+http://php.jdshipin.com:8880/smt.php?id=Xinhe
+#EXTINF:-1 tvg-id="TVB娱乐新闻" tvg-name="娱乐新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/logo/TVB娱乐新闻台.jpg" group-title="香港频道",TVB娱樂新聞
+http://ali.hlspull.yximgs.com/live/6425965d63a08c85ca806bfcc8c75cf4.flv
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB2.png" group-title="香港频道",TVB明珠台
+http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+#EXTINF:-1 tvg-id="TVBJ1" tvg-name="TVBJ1" tvg-logo="https://gitee.com/suxuang/logo/raw/master/logo/TVBJ1.png" group-title="香港频道",TVB J1
+https://stream1.freetv.fun/fei-cui-tai-bei-mei-ban-1.ctv
+#EXTINF:-1 tvg-id="TVBPlus" tvg-name="TVBPlus" tvg-logo="https://isus.cc/share/logo/TVBPlus.png" group-title="香港频道",TVB Plus
+https://stream1.freetv.fun/tvb-j2-2.ctv
+#EXTINF:-1 tvg-id="TVBPlus" tvg-name="TVBPlus" tvg-logo="https://isus.cc/share/logo/TVBPlus.png" group-title="香港频道",TVB Plus（備用）
+https://stream1.freetv.fun/tvb-plus-9.m3u8
+#EXTINF:-1 tvg-name="港台电视31" tvg-logo="https://live.fanmingming.cn/tv/港台电视31.png" group-title="香港频道",港台電視31
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
+#EXTINF:-1 tvg-name="港台电视32" tvg-logo="https://live.fanmingming.cn/tv/港台电视32.png" group-title="香港频道",港台電視32
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
+#EXTINF:-1 tvg-name="HOY TV" group-title="香港频道",HOY TV
+http://cdn.132.us.kg/live/hoy/stream.m3u8
